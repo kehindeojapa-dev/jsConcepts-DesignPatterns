@@ -86,50 +86,50 @@
     functional Programming
  */
 
-const movieList = [
-    {
-    title: "Batman",
-    year: 1989,
-    director: "Tim Burton",
-    imdbRating: 7.6
-    },
-    {
-    title: "Batman Returns",
-    year: 1992,
-    director: "Tim Burton",
-    imdbRating: 7.0
-    },
-    {
-    title: "Batman Forever",
-    year: 1995,
-    director: "Joel Schumacher",
-    imdbRating: 5.4
-    },
-    {
-    title: "Batman & Robin",
-    year: 1997,
-    director: "Joel Schumacher",
-    imdbRating: 3.7
-    },
-    {
-    title: "Batman Begins",
-    year: 2005,
-    director: "Christopher Nolan",
-    imdbRating: 8.3
-    },
-    {
-    title: "The Dark Knight",
-    year: 2008,
-    director: "Christopher Nolan",
-    imdbRating: 9.0
-    },
-    {
-    title: "The Dark Knight Rises",
-    year: 2012,
-    director: "Christopher Nolan",
-    imdbRating: 8.5
-    }
-];
+// const movieList = [
+//     {
+//     title: "Batman",
+//     year: 1989,
+//     director: "Tim Burton",
+//     imdbRating: 7.6
+//     },
+//     {
+//     title: "Batman Returns",
+//     year: 1992,
+//     director: "Tim Burton",
+//     imdbRating: 7.0
+//     },
+//     {
+//     title: "Batman Forever",
+//     year: 1995,
+//     director: "Joel Schumacher",
+//     imdbRating: 5.4
+//     },
+//     {
+//     title: "Batman & Robin",
+//     year: 1997,
+//     director: "Joel Schumacher",
+//     imdbRating: 3.7
+//     },
+//     {
+//     title: "Batman Begins",
+//     year: 2005,
+//     director: "Christopher Nolan",
+//     imdbRating: 8.3
+//     },
+//     {
+//     title: "The Dark Knight",
+//     year: 2008,
+//     director: "Christopher Nolan",
+//     imdbRating: 9.0
+//     },
+//     {
+//     title: "The Dark Knight Rises",
+//     year: 2012,
+//     director: "Christopher Nolan",
+//     imdbRating: 8.5
+//     }
+// ];
 
 //Title for batman movies with rating of 7 and above
 // const titles = []
@@ -289,29 +289,29 @@ const movieList = [
 
 // Student Results
 
-const students = [
-    {
-    name: "Anna",
-    sex: "f",
-    grades: [4.5, 3.5, 4]
-    },
-    {
-    name: "Dennis",
-    sex: "m",
-    country: "Germany",
-    grades: [5, 1.5, 4]
-    },
-    {
-    name: "Martha",
-    sex: "f",
-    grades: [5, 4, 2.5, 3]
-    },
-    {
-    name: "Brock",
-    sex: "m",
-    grades: [4, 3, 2]
-    }
-];
+// const students = [
+//     {
+//     name: "Anna",
+//     sex: "f",
+//     grades: [4.5, 3.5, 4]
+//     },
+//     {
+//     name: "Dennis",
+//     sex: "m",
+//     country: "Germany",
+//     grades: [5, 1.5, 4]
+//     },
+//     {
+//     name: "Martha",
+//     sex: "f",
+//     grades: [5, 4, 2.5, 3]
+//     },
+//     {
+//     name: "Brock",
+//     sex: "m",
+//     grades: [4, 3, 2]
+//     }
+// ];
     
 // Compute female student results
 // const femaleStudentsResults = [];
@@ -346,4 +346,4 @@ const students = [
 // }
 
 // const femaleStudentsResults = femaleStudResult(students);
-console.log(femaleStudentsResults);
+// console.log(femaleStudentsResults);
