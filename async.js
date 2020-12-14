@@ -67,7 +67,24 @@
 // getLang();
 
 
-//Famous Paintings
+// Famous Paintings
 // const getPaintDetails = async function() {
-
+//     const table = document.querySelector('#paintings');
+//     const resp = await fetch("./paintings.json");
+//     const paintData = await resp.json();
+//     paintData.forEach(paint => {
+//         const tr = document.createElement('tr');
+//         const td1 = document.createElement('td');
+//         td1.textContent = paint.name;
+//         const td2 = document.createElement('td');
+//         td2.textContent = paint.year;
+//         const td3 = document.createElement('td');
+//         td3.textContent = paint.name;
+//         tr.appendChild(td1);
+//         tr.appendChild(td2);
+//         tr.appendChild(td3);
+//         table.appendChild(tr)
+//     })
 // }
+
+// getPaintDetails();
